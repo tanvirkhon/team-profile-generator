@@ -1,0 +1,74 @@
+/* Whole Body Styles */
+body {
+  background-image: url("./img/background-tile.jpg");
+}
+
+a {
+  color: #e84855;
+}
+
+/* Header Styles */
+.team-heading {
+  background-color: #e84855;
+  box-shadow: #868383 0px 0px 50px;
+  color: #fff;
+  border-bottom: 10px solid rgba(0, 0, 0, 0.7);
+}
+
+.team-heading h1 {
+  font-size: 4rem;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: #2f2e2e 0px 0px 10px;
+}
+
+/* Employee Card Section */
+
+.team-area {
+  max-width: 1000px;
+  margin: 3em auto;
+  flex-wrap: wrap;
+}
+
+.employee-card {
+  margin: 1em;
+  max-width: 280px;
+  width: 90%;
+  min-height: 22rem;
+  background-color: #e84855;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
+  border: 10px solid rgba(0, 0, 0, 0.7);
+  transition: transform 0.2s;
+}
+
+.employee-card:hover {
+  transform: scale(1.1); /* Animation on Hover */
+}
+
+.card-header h2,
+h3 {
+  text-shadow: #2f2e2e 0px 0px 5px;
+  font-weight: bold;
+}
+
+i {
+  color: rgba(0, 0, 0, 0.7);
+  padding-right: 10px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f6f7f8;
+}
+
+.list-group-item {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
