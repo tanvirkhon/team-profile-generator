@@ -24,7 +24,13 @@ A command-line application takes in user inputs in order to generate a team prof
 You must have Node.js install on your machine and install the inquirer version 8.2.4 package. Additionally you will need JEST in order to run the tests provided.   
     
 ## Usage 
-Please watch the video in order to understand how the program fully works. 
+The application is run through your terminal. In order to run it you will have to put in the following command in your terminal:
+![image](https://user-images.githubusercontent.com/119143763/221057861-d507ebcd-7b80-4b70-9d32-351d50fbc85d.png)
+
+Then you will be asked a series of questions in order to build your team's profile. The questions will look like the following in your terminal:
+![image](https://user-images.githubusercontent.com/119143763/221057704-3cb33d6b-d58f-4498-a2bb-e30a9650319b.png)
+
+Please watch the attached video in order to understand how the program fully works: 
     
 ## Contributing 
 N/A 
