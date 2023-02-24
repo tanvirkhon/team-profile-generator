@@ -30,7 +30,7 @@ The application is run through your terminal. In order to run it you will have t
 Then you will be asked a series of questions in order to build your team's profile. The questions will look like the following in your terminal:
 ![image](https://user-images.githubusercontent.com/119143763/221057704-3cb33d6b-d58f-4498-a2bb-e30a9650319b.png)
 
-Please watch the attached video in order to understand how the program fully works: 
+Please watch the attached video in order to understand how the program fully works: https://drive.google.com/file/d/1vsPdZydRdvZ3cTKj6yXaSfJzH-t-UFd-/view
     
 ## Contributing 
 N/A 
